@@ -1,4 +1,3 @@
-```markdown
 # To-Do App
 
 A simple to-do application built with React and Redux, featuring task management and drag-and-drop functionality.
